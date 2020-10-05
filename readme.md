@@ -8,7 +8,7 @@ and create this info for interested people.
 ## Table of Contents
 * [Technologies](#technologies)
 * [Screens](#screens)
-* [Work Progress](#Work Progress)
+* [Work Progress](#progress)
 
 ## Technologies
 * PHP 7.2
@@ -22,7 +22,7 @@ and create this info for interested people.
 ## Screens
 In screenshots folder
 
-## Work Progress
+## Progress
 TO DO:
 * Login/register system + registration confirm
 * Display your own collection
